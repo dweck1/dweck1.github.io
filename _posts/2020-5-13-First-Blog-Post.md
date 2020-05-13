@@ -1,0 +1,6 @@
+---
+layout: post
+title: First Blog Post
+---
+
+If you were to ask 10 different people what being a data scientist is about, you might get 10 different responses. To me, being a data scientist is about generating insights from data and solving business problems. In order to do this, a data scientist must have technical skills involving programming, mathematics/statistics, and domain knowledge, as well as the soft skills to communicate effectively with the clients and collaborators involved in the project. The duties of a data scientist involve fully understanding the problem at hand; gathering, cleaning, and preparing data; analyzing the data using the appropriate technique; and interpreting the results back to the end users. These duties are very similar to that of a statistician. Both must have the skills to be able to analyze/model data and interpret results. Often, however, a data scientist requires a much broader skillset, such as more advanced programming and machine learning knowledge. As for myself, right now my skillset is somewhere in between these two roles. My education background is in statistics, but I have worked on and continue to work on my programming and machine learning skills to develop the broader skillset required for data science. 
