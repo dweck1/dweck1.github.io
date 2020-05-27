@@ -1,6 +1,6 @@
 ---
 layout: post
-**title: Second Blog Post**
+title: Second Blog Post
 ---
 
 TEST
