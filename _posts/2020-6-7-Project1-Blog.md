@@ -3,7 +3,7 @@ layout: post
 title: Project 1 Blog
 ---
 
-Information on this project can be found [here.](https://dweck1.github.io/ST558-Project1/)   
+Information on this project can be found [here.](https://dweck1.github.io/ST558-Project1/)  
   
 Project 1 in ST558 began with an introduction into JSON data. I conducted some research in order to be able to explain JSON data so that someone with little knowledge of JSON would have a basic understanding of the format. Next, I discussed jsonlite, one of the most popular R packages for reading JSON data. Finally, I used the jsonlite packages, along with some others, to connect to the NHL API and pull some data. I then performed some basic exploratory data analysis on the NHL data that I pulled. I generated a couple tables and graphs to gain some insights. From the graphs, I was able to explore which Tampa Bay Lightning forwards are the most efficient goal scorers. I identified which position racks up the most penalty minutes in their career. And lastly, I explored the relationship between a franchises average penalty minutes per game and their overall win-loss ratio. Overall, it was a pretty fun project for me since I am a big sports fan.  
   
