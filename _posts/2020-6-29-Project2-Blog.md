@@ -13,4 +13,4 @@ The most difficult part of the project for me was the automation. I had an inkli
   
 As for take-aways from this project, my biggest take-away is how easy it is to train models using the `caret` package. It is a very convenient package for training models with different tuning parameters. Additionally, I was reading through the `caret` documentation and saw how many different models can be used with this package. I can now see how this rivals sklearn. Another take-away is that `caret` makes it very easy to preprocess data as well.   
   
- All in all, it was a fun project. It was nice to get more experience using `caret`. I will probably end up using this more in the future. 
+All in all, it was a fun project. It was nice to get more experience using `caret`. I will probably end up using this more in the future. 
